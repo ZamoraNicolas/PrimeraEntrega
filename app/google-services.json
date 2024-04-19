@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563461410989",
+    "project_id": "intento-76452",
+    "storage_bucket": "intento-76452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563461410989:android:15f682557d9af563343624",
+        "android_client_info": {
+          "package_name": "com.example.intento_proyecto_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCCRP5usA8ScYZxAOvyBCRI4yn0ESfdw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
